@@ -1,24 +1,24 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => 'd82b15dbdf10687de63eda2df08e3440ee9605b8',
     'name' => 'flaviofladon/ecommerce',
   ),
   'versions' => 
   array (
     'flaviofladon/ecommerce' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'd82b15dbdf10687de63eda2df08e3440ee9605b8',
     ),
     'phpmailer/phpmailer' => 
     array (
